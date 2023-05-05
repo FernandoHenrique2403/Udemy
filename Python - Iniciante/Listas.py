@@ -1,0 +1,21 @@
+lista=[1,4,7,"Fernando",24,1993]
+lista.append("Python")
+print(lista)
+lista.append(20)
+print(lista)
+print(lista[0:3])
+print(lista.index("Fernando"))
+print(lista.count(4))
+lista.append(4)
+print(lista.count(4))
+lista.remove("Python")
+print(lista)
+lista.remove(4)
+print(lista)
+lista.reverse()
+print(lista)
+
+lista2 =[1,9,3,4,5,6,7]
+print(lista2)
+lista2.sort()
+print(lista2)
