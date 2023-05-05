@@ -10,3 +10,8 @@ numero1 = 11
 numero2= 10
 result = numero1+numero2
 print(result)
+
+float(valorhora)
+int(10.9)
+int(10.6)
+valorhora
